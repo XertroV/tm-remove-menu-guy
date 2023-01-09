@@ -1,0 +1,8 @@
+[meta]
+name     = "Remove Menu Guy"
+author   = "XertroV"
+category = "Settings"
+version  = "0.1.1"
+
+[script]
+#__DEFINES__

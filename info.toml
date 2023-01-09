@@ -2,7 +2,7 @@
 name     = "Remove Menu Guy"
 author   = "XertroV"
 category = "Settings"
-version  = "0.1.1"
+version  = "0.1.2"
 
 [script]
 #__DEFINES__
